@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.normal {
+  background-color: lightgray;
+}
+
+.poison {
+  background-color: purple;
+}
+
+.flying {
+  background-color: lightblue;
+}
+
+.electric {
+  background-color: yellow;
+}
+
+.fairy {
+  background-color: plum;
+}
+
+.ground {
+  background-color: brown;
+}
